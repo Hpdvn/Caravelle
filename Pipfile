@@ -5,6 +5,7 @@ name = "pypi"
 
 [packages]
 speechrecognition = "*"
+pipwin = "*"
 
 [dev-packages]
 
